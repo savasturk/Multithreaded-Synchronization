@@ -1,6 +1,6 @@
 # Multithreaded-Synchronization
 
-This is my Operating Systems cource's assigment to solve synchronization Taxi problem.
+This is my Operating Systems course's assigment to solve synchronization Taxi problem.
 Prevent wait for a long time to reach.
 Simulated and solved with mutex and semaphores.
 I used POSIX library(pthread).
